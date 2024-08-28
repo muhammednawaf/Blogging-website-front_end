@@ -8,6 +8,7 @@ The Blogging Website is a modern and intuitive web application designed for crea
 
 - **User Authentication**: Secure login with client-side validation using jQuery.
 - **Blog Post Management**: list the popular blogs ,videos and templates.
+- **Subscription Updates**: users to subscribe to updates, promotions, or content via email.
 
 ## Technologies Used
 
