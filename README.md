@@ -7,6 +7,7 @@ The Blogging Website is a modern and intuitive web application designed for crea
 ## Features
 
 - **User Authentication**: Secure login with client-side validation using jQuery.
+- **Blog Post Management**: list the popular blogs ,videos and templates.
 
 ## Technologies Used
 
@@ -25,13 +26,7 @@ To set up the Blogging Website locally, follow these steps:
    git clone https://github.com/muhammednawaf/Blogging-website-front_end.git
    ```
 
-2. **Navigate to the Project Directory**
-
-   ```bash
-   cd blog
-   ```
-
-3. **Open the Project**
+2. **Open the Project**
 
    Open `index.html` in your preferred web browser.
 
